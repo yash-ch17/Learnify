@@ -1,14 +1,16 @@
-
 streamlit
 matplotlib
 pandas
 schedule
 openai
+requests
+python-dotenv
+email-validator
+openai
 matplotlib
 sqlite3  # (optional, see note below)
 openai
 fpdf
-dotenv
 google.generativeai
 base64
 time
