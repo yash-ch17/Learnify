@@ -1,7 +1,7 @@
 Libraries Installed for learnify
 streamlit
 sqlite3
-matplot
+matplotlib
 pandas
 schedule
 smtplib
