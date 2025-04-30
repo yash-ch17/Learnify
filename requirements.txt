@@ -6,10 +6,7 @@ openai
 requests
 python-dotenv
 email-validator
-openai
-matplotlib
-sqlite3  # (optional, see note below)
-openai
+sqlite3  
 fpdf
 google.generativeai
 base64
@@ -20,8 +17,7 @@ email.mime.multipart
 bcrypt
 googleapiclient.discovery
 streamlit_cookies_manager
-requests
-schedule
+request
 smtplib  
 email-validator
 numpy
