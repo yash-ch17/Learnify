@@ -1,0 +1,23 @@
+
+streamlit
+matplotlib
+pandas
+sqlite3  # (optional, see note below)
+openai
+fpdf
+dotenv
+google.generativeai
+base64
+time
+streamlit_cookies_manager
+email.mime.text
+email.mime.multipart
+bcrypt
+googleapiclient.discovery
+streamlit_cookies_manager
+requests
+schedule
+smtplib  
+email-validator
+numpy
+google-api-python-client
