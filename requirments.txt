@@ -1,6 +1,10 @@
+
 streamlit
 matplotlib
 pandas
+schedule
+openai
+matplotlib
 sqlite3  # (optional, see note below)
 openai
 fpdf
